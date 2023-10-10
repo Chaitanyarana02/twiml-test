@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>
+        <!-- Play a disconnect mp3 -->
+    <Play>https://file-examples.com/storage/feaade38c1651bd01984236/2017/11/file_example_MP3_700KB.mp3</Play>
     <!-- Immediately hang up the call -->
     <Hangup/>
-    <!-- Play a disconnect mp3 -->
-    <Play>https://file-examples.com/storage/feaade38c1651bd01984236/2017/11/file_example_MP3_700KB.mp3</Play>
 </Response>
